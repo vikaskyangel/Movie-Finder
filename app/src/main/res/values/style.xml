@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SearchViewStyle" parent="Widget.AppCompat.SearchView">
+        <!-- Background for the search query section (e.g. EditText) -->
+        <item name="android:textColorHint">#ffffff</item>
+        <item name="android:editTextColor">@android:color/white</item>
+        <item name="searchIcon">@drawable/baseline_search_24</item>
+        <!--        <item name="searchIcon">...</item>-->
+        <!--        <item name="goIcon">...</item>-->
+        <!--        <item name="commitIcon">...</item>-->
+    </style>
+
+</resources>
